@@ -2,6 +2,7 @@
 Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Projects
 
 ### Projects
+
 | Folder | Embedded System |
 |--------|-----------------|
 | [AVR](https://elabz.net/AVR/)  | Atmel AVR, Arduino |
