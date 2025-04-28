@@ -1,8 +1,14 @@
-# :: Embedded Labz ::
+## :: Embedded Labz ::
 Electronics, Microcontrollers and Arduino Projects
 
-[AVR](http://elabz.net/AVR/)
 
-[ESP](http://elabz.net/ESP/)
+### Projects:
+- [AVR](https://elabz.net/AVR/)
 
-[Linux](http://elabz.net/Linux/)
+- [ESP](https://elabz.net/ESP/)
+
+
+### Tips & Tricks
+- [Linux](https://elabz.net/Linux/)
+
+> [eLabz.net](https://elabz.net)
