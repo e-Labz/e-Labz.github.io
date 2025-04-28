@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: #121212;
+    color: #ffffff;
+  }
+</style>
 ## :: Embedded Labz ::
 Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Projects
 
