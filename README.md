@@ -3,22 +3,25 @@ Linux, Open Source, Electronics, Microcontrollers & Arduino Projects
 
 
 ### Projects:
-|  | Embedded Systems |
+| Folder | Embedded System |
 |---|---|
 | [AVR](https://elabz.net/AVR/) | Atmel AVR, Arduino |
 | [ESP](https://elabz.net/ESP/) | Espressif ESP8266 / ESP32 |
-| RaspiberryPi Pico | RP2040 / RP2350 Raspberry Pi Pico |
+| [RPI](https://elabz.net/RPI/) | RP2040 / RP2350 Raspberry Pi Pico |
 
 ### Program Languages
-|  | Language |
+| Folder | Language |
 |---|---|
-| C / C++ | C / C++ Language |
+| CPP | C / C++ Language |
 | Lua  | Lua Language|
 | Python |  Python / Micro Python |
-| JavaScript | JavaScript |
+| JavaScript | JavaScript Language |
 
 ### Tips & Tricks
-- [Linux](https://elabz.net/Linux/)
+| Folder | Description |
+|---|---|
+| KVM | KVM/QEMU, VirtualBox, VMware virtualization |
+| [Linux](https://elabz.net/Linux/) | BSD, Linux & Unix |
 
 
 ###### [eLabz.net](https://elabz.net)
