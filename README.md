@@ -1,2 +1,2 @@
-# e-Labz.github.io
+# eLabz :: Embedded Labz
 Electronics, Microcontrollers and Arduino Projects
