@@ -24,5 +24,3 @@ Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Proje
 | [SBC](https://elabz.net/SBC/)   | Single Board Computers, Raspberry, OrangePi |
 
 ###### [eLabz.net](https://elabz.net)
-
-Agora está mais consistente e organizado! Me avise se quiser mais melhorias. 🚀
