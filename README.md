@@ -10,12 +10,12 @@ Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Proje
 | [RPI](https://elabz.net/RPI/) | RP2040 / RP2350 Raspberry Pi Pico |
 
 ### Program Languages
-| Folder | Language |
-|--------|----------|
-| CPP | C / C++ Language |
-| Lua  | Lua Language|
-| Python |  Python / Micro Python |
-| JavaScript | JavaScript Language |
+|   Folder   | Language |
+|------------|----------|
+| CPP        | C / C++ Language |
+| Lua        | Lua Language     |
+| Python     |  Python / Micro Python |
+| JavaScript | JavaScript Language    |
 
 ### Tips & Tricks
 | Folder | Description |
