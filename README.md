@@ -1,5 +1,5 @@
 ## :: Embedded Labz ::
-Electronics, Microcontrollers and Arduino Projects
+Linux, Open Source, Electronics, Microcontrollers & Arduino Projects
 
 
 ### Projects:
