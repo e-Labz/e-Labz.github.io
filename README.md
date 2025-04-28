@@ -6,7 +6,7 @@ Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Proje
 | Folder | Embedded System |
 |---|---|
 | [AVR](https://elabz.net/AVR/) | Atmel AVR, Arduino |
-| [ESP](https://elabz.net/ESP/) | Espressif ESP8266 / ESP32 |
+| [ESP](https://elabz.net/ESP/) | Espressif ESP32 / ESP8266 |
 | [RPI](https://elabz.net/RPI/) | RP2040 / RP2350 Raspberry Pi Pico |
 
 ### Program Languages
