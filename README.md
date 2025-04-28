@@ -22,7 +22,7 @@ Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Proje
 |--------|-------------|
 | KVM | KVM/QEMU, VirtualBox, VMware virtualization |
 | [Linux](https://elabz.net/Linux/) | BSD, Linux & Unix |
-| SBC | Single Board Computers, Raspberry, OrangePi, ... |
+| SBC | Single Board Computers, Raspberry, OrangePi |
 
 
 ###### [eLabz.net](https://elabz.net)
