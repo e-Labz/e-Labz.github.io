@@ -3,10 +3,17 @@ Linux, Open Source, Electronics, Microcontrollers & Arduino Projects
 
 
 ### Projects:
-- [AVR](https://elabz.net/AVR/)
+|  | Embedded Systems |
+| [AVR](https://elabz.net/AVR/) | Atmel AVR, Arduino |
+| [ESP](https://elabz.net/ESP/) | Espressif ESP8266 / ESP32 |
+| RaspiberryPi Pico | RP2040 / RP2350 Raspberry Pi Pico |
 
-- [ESP](https://elabz.net/ESP/)
-
+### Program Languages
+|  |  |
+| C / C++ | C / C++ Language |
+| Lua  | Lua Language|
+| Python |  Python / Micro Python |
+| JavaScript | JavaScript |
 
 ### Tips & Tricks
 - [Linux](https://elabz.net/Linux/)
