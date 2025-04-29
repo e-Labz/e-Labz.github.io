@@ -40,6 +40,4 @@
 -->
 
 ---
-###### This is free software — consider supporting us to buy our coffee or beer 😉
-
-<a href="https://www.buymeacoffee.com/AndreSantana" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+###### This is free software — consider supporting us to [buy our coffee or beer](https://www.buymeacoffee.com/AndreSantana) 😉
