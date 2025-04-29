@@ -13,12 +13,12 @@
 
 ### Programming Languages
 
-| Folder     | Language              |
+| Folder     | Language             |
 |------------|----------------------|
-| [CPP](https://elabz.net/CPP/)     | C / C++ Language      |
-| [Lua](https://elabz.net/Lua/)     | Lua Language         |
-| [Python](https://elabz.net/Python/) | Python / MicroPython |
-| [JavaScript](https://elabz.net/JavaScript/) | JavaScript Language |
+| CPP        | C / C++ Language     |
+| Lua        | Lua Language         |
+| Python)    | Python / MicroPython |
+| JavaScript | JavaScript Language  |
 
 ### Tips & Tricks
 
@@ -29,8 +29,13 @@
 | [SBC](https://elabz.net/SBC/)   | Single Board Computers, Raspberry, OrangePi |
 
 
-<!-- Este é um comentário em Markdown -->
-[//]: # (Este é um comentário "oculto" no Markdown)
-**Comentário:** Isso é apenas uma observação que não será interpretada como código.
+<!-- 
+| Folder     | Language              |
+|------------|----------------------|
+| [CPP](https://elabz.net/CPP/)     | C / C++ Language      |
+| [Lua](https://elabz.net/Lua/)     | Lua Language         |
+| [Python](https://elabz.net/Python/) | Python / MicroPython |
+| [JavaScript](https://elabz.net/JavaScript/) | JavaScript Language |
+-->
 
 ###### [eLabz.net](https://elabz.net)
