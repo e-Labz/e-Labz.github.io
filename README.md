@@ -1,5 +1,5 @@
-![Logo](http://elabz.net/logo.jpg)
-## :: Embedded Labz ::
+
+## ![Logo](http://elabz.net/logo.jpg) :: Embedded Labz ::
 Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Projects
 
 ### Projects
