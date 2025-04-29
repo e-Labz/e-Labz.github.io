@@ -23,7 +23,7 @@ Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Proje
 | Folder | Description |
 |--------|---------------------------|
 | [KVM](https://elabz.net/KVM/)   | KVM/QEMU, VirtualBox, VMware virtualization |
-| [Linux](https://elabz.net/Linux/) | BSD, Linux & Unix |
+| [Unix](https://elabz.net/Unix/) | BSD, Linux & Unix |
 | [SBC](https://elabz.net/SBC/)   | Single Board Computers, Raspberry, OrangePi |
 
 ###### [eLabz.net](https://elabz.net)
