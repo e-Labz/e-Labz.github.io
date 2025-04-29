@@ -28,4 +28,6 @@
 | [Unix](https://elabz.net/Unix/) | BSD, Linux & Unix |
 | [SBC](https://elabz.net/SBC/)   | Single Board Computers, Raspberry, OrangePi |
 
+[//]: # (Este é um comentário "oculto" no Markdown)
+
 ###### [eLabz.net](https://elabz.net)
