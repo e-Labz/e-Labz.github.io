@@ -12,6 +12,15 @@
 | [RPI](https://elabz.net/RPI/)  | RP2040 / RP2350 Raspberry Pi Pico |
 | [SBC](https://elabz.net/SBC/)   | Single Board Computers, Raspberry, OrangePi |
 
+### Tips & Tricks
+
+| Folder | Description |
+|--------|---------------------------|
+| LXC | Linux Containers, Docker, Incus |
+| [KVM](https://elabz.net/KVM/)   | KVM/QEMU, VirtualBox, VMware virtualization |
+| [Unix](https://elabz.net/Unix/) | BSD, Linux & Unix |
+
+
 ### Programming Languages
 
 | Folder     | Language             |
@@ -20,16 +29,6 @@
 | Lua        | Lua Language         |
 | Python     | Python / MicroPython |
 | JavaScript | JavaScript Language  |
-
-### Tips & Tricks
-
-| Folder | Description |
-|--------|---------------------------|
-| [KVM](https://elabz.net/KVM/)   | KVM/QEMU, VirtualBox, VMware virtualization |
-| [Unix](https://elabz.net/Unix/) | BSD, Linux & Unix |
-| LXC | Linux Containers, Docker, Incus |
-
-
 
 <!-- 
 | Folder     | Language              |
