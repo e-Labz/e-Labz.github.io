@@ -29,5 +29,6 @@
 | [SBC](https://elabz.net/SBC/)   | Single Board Computers, Raspberry, OrangePi |
 
 [//]: # (Este é um comentário "oculto" no Markdown)
+**Comentário:** Isso é apenas uma observação que não será interpretada como código.
 
 ###### [eLabz.net](https://elabz.net)
