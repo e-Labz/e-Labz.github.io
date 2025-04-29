@@ -3,13 +3,14 @@
 ![Banner](http://elabz.net/banner.png)
 #### Linux, Open Source, Open Hardware, Electronics, Microcontrollers & Arduino Projects
 
-### Microcontrollers
+### Open Hardware
 
 | Folder | Embedded System |
 |--------|-----------------|
 | [AVR](https://elabz.net/AVR/)  | Atmel AVR, Arduino |
 | [ESP](https://elabz.net/ESP/)  | Espressif ESP32 / ESP8266 |
 | [RPI](https://elabz.net/RPI/)  | RP2040 / RP2350 Raspberry Pi Pico |
+| [SBC](https://elabz.net/SBC/)   | Single Board Computers, Raspberry, OrangePi |
 
 ### Programming Languages
 
@@ -17,7 +18,7 @@
 |------------|----------------------|
 | CPP        | C / C++ Language     |
 | Lua        | Lua Language         |
-| Python)    | Python / MicroPython |
+| Python     | Python / MicroPython |
 | JavaScript | JavaScript Language  |
 
 ### Tips & Tricks
@@ -26,7 +27,8 @@
 |--------|---------------------------|
 | [KVM](https://elabz.net/KVM/)   | KVM/QEMU, VirtualBox, VMware virtualization |
 | [Unix](https://elabz.net/Unix/) | BSD, Linux & Unix |
-| [SBC](https://elabz.net/SBC/)   | Single Board Computers, Raspberry, OrangePi |
+| LXC | Linux Containers, Docker, Incus |
+
 
 
 <!-- 
